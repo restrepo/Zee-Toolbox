@@ -2,7 +2,7 @@ Run SARAH models precompiled by the butler script of SARAH Toolbox.
 
 Try directly here:
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/restrepo/BSM-Toolbox)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/restrepo/Zee-Toolbox)
 
 To build a model:
 ./butler MODEL
